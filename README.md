@@ -26,4 +26,22 @@ Total Profit: $10.46M
 
 Total Orders: 25K
 
-Return Rate: 2.17%
+# Technologies Used
+
+Power BI: Data visualization and reporting.
+
+Microsoft Excel: Data storage and processing.
+
+DAX (Data Analysis Expressions): Used for advanced calculations within Power BI.
+
+# Future Enhancements
+
+Integration with live data sources for real-time analysis.
+
+Advanced predictive analytics using machine learning.
+
+Customizable dashboard layouts based on user preferences.
+
+Automated email reporting for key stakeholders.
+
+
