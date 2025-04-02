@@ -4,6 +4,8 @@
 
 The Adventure Data Project is a Power BI dashboard that provides insightful visualizations and analysis of sales performance, total revenue, and order statistics. It is designed to help businesses track their financial and operational performance.
 
+<img src="./dashboard_image.png" alt="dashboard_image.png" width=""/> &nbsp;
+
 # Features
 
 Total Revenue Analysis: Displays revenue trends over time.
